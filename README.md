@@ -1,6 +1,5 @@
 # Probabilty-for-Machine-Learning
 
-
 An online shop has recorded the behavior of its customers. The statistics service has dened, for each
 customer, the variables X and Y about what the customer has bought during the 30 previous days :
 X = number of books the customer has bought
@@ -16,9 +15,9 @@ Questions :
 1. Calculate the expectation E(Z) of the random vector Z.
 2. Calculate the covariance matrix Cov(Z).
 3. Calculate the correlation corr(X; Y ). Are the variables X and Y independent ?
-4. We search for the best relation Y = alphaX +beta. The best relation is the relation which minimizes the
+4. We search for the best relation Y = X +. The best relation is the relation which minimizes the
 expected error.
-We hence have to nd the values of alpha and  which minimize
+We hence have to nd the values of  and  which minimize
 E
 􀀀
 (Y 􀀀 X 􀀀 )2
